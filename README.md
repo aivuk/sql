@@ -1,3 +1,4 @@
+
 <!-- hide -->
 # Connecting to a SQL Database Project Tutorial
 <!-- endhide -->
